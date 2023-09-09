@@ -16,7 +16,7 @@ namespace MVCTestProject.Controllers
             // Create the response JSON object
             var response = new
             {
-                slack_name = "hngx",
+                slack_name = "Aderibigbe Musodiq Olamide",
                 current_day = currentDay,
                 utc_time = currentUtcTime.ToString("yyyy-MM-ddTHH:mm:ssZ"),
                 track = "Backend",
