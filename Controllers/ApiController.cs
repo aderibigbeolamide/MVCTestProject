@@ -19,7 +19,7 @@ namespace MVCTestProject.Controllers
                 slack_name = "Aderibigbe Musodiq Olamide",
                 current_day = currentDay,
                 utc_time = currentUtcTime.ToString("yyyy-MM-ddTHH:mm:ssZ"),
-                track = "Backend",
+                track = "backend",
                 github_file_url = "https://github.com/aderibigbeolamide/MVCTestProject/blob/master/Controllers/ApiController.cs",
                 github_repo_url = "https://github.com/aderibigbeolamide",
                 status_code = 200
