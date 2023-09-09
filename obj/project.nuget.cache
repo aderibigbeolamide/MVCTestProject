@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tbu06ONtt7BD3LQMtD+GoXU4P9EnTw7ZPvY44iAk31by8TsD2a0/u+m8sAXUZ0Ap/u8242CXh8WbpIlwpqE6Cg==",
+  "success": true,
+  "projectFilePath": "/home/fullstackbeast/Desktop/Musodiq/MVCTestProject/MVCTestProject.csproj",
+  "expectedPackageFiles": [
+    "/home/fullstackbeast/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/fullstackbeast/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/fullstackbeast/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/fullstackbeast/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/fullstackbeast/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/fullstackbeast/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
