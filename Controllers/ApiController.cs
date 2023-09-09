@@ -10,10 +10,7 @@ namespace MVCTestProject.Controllers
         [HttpGet]
         public IActionResult Get(string slack_name, string track)
         {
-            // Get the current UTC time
             var currentUtcTime = DateTime.UtcNow;
-
-            // Determine the current day of the week
             var currentDay = DateTime.UtcNow.ToString("dddd");
 
             // Create the response JSON object
